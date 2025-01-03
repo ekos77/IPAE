@@ -20,7 +20,7 @@ Este software es esta enfocado en administrar las funciones de evaluación de Id
 - [Pandas](https://pandas.pydata.org/)
  
 ## Cómo Empezar
-1. Este repositorio es publico
+1. Este repositorio No es publico
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas colaborar de cualquier forma ponte en contacto conmigo
