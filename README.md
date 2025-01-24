@@ -1,6 +1,6 @@
 # IPAE 🚀
 
-**IPAE** es un sistema informático diseñado en respuesta para cubrir la labor sobre idoneidad Psicolaboral Asistentes de Educacion del Maule
+**IPAE** es un sistema informático diseñado en respuesta para cubrir la labor sobre idoneidad Psicolaboral Asistentes de Educacion del Maule, el sistema es en realidad una plataforma interctivas para evaluadores Psicologicos, en donde registran y generan certificaciones.
 
 ## Descripción
 Este software es esta enfocado en administrar las funciones de evaluación de Idoneidad Psicolaboral para los asistentes de educacion **IPAE** bajo una plataforma en la que Psicologos y Asistentes puede administrar y descargar certificados mediante el uso de Clave Unica Chilena que facilita la actividades desde cualquier lugar.
